@@ -10,4 +10,11 @@
     - Artifact Repository Manager(Nexus)
     - Containers with Docker
     - Build Automation and CI/CD with Jenkins
-    - 
+    - AWS Services
+    - Container Orchestration with Kubernetes
+    - Kubernetes on AWS(EKS)
+    - Infrastructure as Code with Terraform
+    - Programming basics(Python)
+    - Automation with Python
+    - Configuration Management with Ansible
+    
